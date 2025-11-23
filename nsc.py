@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Interactive Network Security Scanner
-Author: Ujjwal Singh
+Author: Madhav Garg
 Description: Menu-driven network scanner with automatic IP detection
 """
 
@@ -13,8 +14,15 @@ import datetime
 import subprocess
 import re
 import os
+import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Tuple
+
+# Set UTF-8 encoding for Windows console
+if sys.platform == 'win32':
+    import codecs
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer, 'strict')
 
 class InteractiveNetworkScanner:
     def __init__(self):
