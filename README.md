@@ -59,7 +59,7 @@ A **powerful, professional-grade** network security scanner built with Python, d
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/UJ2406/Network_Scanner.git
+    git clone (https://github.com/Flash1285/Network_Scanner.git)
     cd Network_Scanner
     ```
 
