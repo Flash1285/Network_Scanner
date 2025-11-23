@@ -279,9 +279,9 @@ Contributions are welcome! Here's how you can help:
 ## 👤 Author
 
 **Madhav Garg**
-- 📧 Email: ujjwalshield@gmail.com
+- 📧 Email: madhavgarg679@gmail.com
 - 🎓 Cybersecurity Student & Enthusiast
-- 🔗 TryHackMe: [https://tryhackme.com/p/UJz](https://tryhackme.com/p/UJz)
+- 🔗 TryHackMe: [https://tryhackme.com/p/madhav26]((https://tryhackme.com/p/madhav26))
 - 💼 Passionate about network security and ethical hacking
 
 ---
